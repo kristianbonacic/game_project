@@ -1,2 +1,2 @@
 # game_project
-kod moje video igre u c sharpu koji ukljucuje UI, Movement i pokretanje glazbe itd...
+puna pokretljiva igra sa 3 levela se nalazi na itch.io
